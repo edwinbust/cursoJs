@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #eac926;
+}
+
+header img.logo-m {
+     width: 75%;
+}
+
+
+.menu {
+	background-color: #03264C;
+	width: 20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.fa-bars {
+	color: #ffffff;
+}
+
+p, li, h4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: small;
+
+}
+
+img {
+  width: 350px;
+}
+
+/* FOOTER */
+.footer-art {
+	margin-top: 50px;
+	text-align: center;
+}
+
+article i.fas {
+		color: #03264C;
+		font-size: 30 px;
+}
+
