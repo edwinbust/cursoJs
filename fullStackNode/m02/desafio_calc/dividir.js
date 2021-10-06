@@ -7,4 +7,4 @@ function dividir(valorA, valorB){
 	}
 	return division
 }
-console.log(dividir(20,4))
+module.exports=  dividir

@@ -5,4 +5,4 @@ function multiplicar(valorA, valorB){
 	}
 	return multiplica
 }
-console.log(multiplicar(0,5))
+module.exports= multiplicar
