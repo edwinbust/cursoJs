@@ -1,0 +1,23 @@
+div h3{
+	color:blue;
+   }
+
+.negrita{
+    font-weight: bold;
+    }
+
+    
+#gigante{
+    font-size:40px;
+}
+
+.destacado {
+	color:gold;
+}
+.en-mayuscula{
+	text-transform:  uppercase;
+}
+#whatsapp{
+	background-color: green;
+	color: white;
+}

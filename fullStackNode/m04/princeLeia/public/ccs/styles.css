@@ -1,0 +1,20 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-family: 'Noto Sans Mono', monospace;
+	font-size: 32px;
+	font-weight: 800;
+}
+
+p {
+	font-family: 'Noto Sans Mono', monospace;
+	font-weight: 100;
+}
+
+ol, ul {
+	font-family: verdana;
+	font-weight: 100;	
+	
+}
