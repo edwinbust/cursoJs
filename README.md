@@ -1,7 +1,7 @@
 # cursoJs
 ejercicios del curso
 
-##Para saber más
+## Para saber más
 
 En esta sección vamos a compartir información extra, enlaces de interés, sitios para visitar y otras cuestiones que pueden interesar para aprender más sobre HTML + CSS. Para este módulo tenemos un montón de material para compartirles por lo cual decidimos armar unas categorías para facilitar la estructura.
 Para practicar
